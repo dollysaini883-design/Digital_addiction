@@ -1,0 +1,4 @@
+streamlt
+pandas
+plotly
+matplotlib
